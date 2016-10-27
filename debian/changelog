@@ -1,3 +1,9 @@
+ruby2.3 (2.3.1-5~bpo7+1) wheezy-backports; urgency=medium
+
+  * Rebuild for wheezy-backports.
+
+ -- Alban Peignier <alban.peignier@af83.com>  Thu, 27 Oct 2016 10:09:00 +0200
+
 ruby2.3 (2.3.1-5) unstable; urgency=medium
 
   * Increase timeout for test_array.rb test_permutation_stack_error,
