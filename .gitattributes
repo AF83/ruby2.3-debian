@@ -3,3 +3,10 @@
 bin/* diff=ruby
 tool/update-deps diff=ruby
 tool/make-snapshot diff=ruby
+
+test/rexml/data/t63-2.svg binary
+win32/configure.bat eol=crlf
+win32/ifchange.bat eol=crlf
+win32/makedirs.bat eol=crlf
+win32/rm.bat eol=crlf
+win32/rmdirs.bat eol=crlf
